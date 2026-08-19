@@ -1,6 +1,6 @@
-Name:
-Grade:
-Favorite Programming Language:
-Favorite Thing About Computer Science:
-Something I Am Good At:
-Something I Want To Learn:
+Name: Mattias
+Grade: 11
+Favorite Programming Language: Python
+Favorite Thing About Computer Science: Charles & Babbage
+Something I Am Good At: Cooking
+Something I Want To Learn: How to code with Java
